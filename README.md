@@ -21,7 +21,7 @@ Logic for a chess game built with Python and Pygame. This project implements a f
 
 | Board Setup | Logic in Action |
 | :---: | :---: |
-| ![board_img](images/board.png) | ![castling_img](images/castling.png)
+| ![board_img](images/board.png) | ![castling_img](images/Castling.png)
 
 ### 🚀 Stack & Tools
 * **Language**: **Python** — backend engine and game logic.
