@@ -32,7 +32,7 @@ Logic for a chess game built with Python and Pygame. This project implements a f
 1. **Clone the repository**:
 
    ```bash
-   git clone [https://github.com/nzr-xdev/engine_chessgame.git](https://github.com/nzr-xdev/engine_chessgame.git)
+   git clone https://github.com/nzr-xdev/engine_chessgame.git
 2. **Import requirements**:
 
     ```bash
